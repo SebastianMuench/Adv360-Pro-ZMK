@@ -1,5 +1,7 @@
 # ADV360-PRO-ZMK
 
+This is for my personal use with vim and yabai.
+
 ## Modifying the keymap
 
 There is a GUI for editing the keymap. It is available at https://kinesiscorporation.github.io/Adv360-Pro-GUI
