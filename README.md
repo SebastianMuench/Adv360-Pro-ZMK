@@ -1,6 +1,8 @@
 # ADV360-PRO-ZMK
 
 This is for my personal use with vim and yabai.
+Will start out pretty vanilla and improve it constantly.
+
 
 ## Modifying the keymap
 
