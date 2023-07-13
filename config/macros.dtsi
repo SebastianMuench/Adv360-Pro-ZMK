@@ -38,7 +38,7 @@ macro_ctrlc: macro_ctrlc{
 compatible = "zmk,behavior-macro";
 label = "macro_ctrlc";
 #binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp C>;
+bindings = <&macro_tap &kp LCTRL &kp C>;
 };
 macro_ctrlv: macro_ctrlv{
 compatible = "zmk,behavior-macro";
